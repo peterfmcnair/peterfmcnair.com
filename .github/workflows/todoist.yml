@@ -1,0 +1,33 @@
+name: Sync Todoist
+
+on:
+ # Triggers the workflow every day at 00:00 UTC (midnight)
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.2"
+
+      - name: Fetch Todoist tasks
+        run: ruby scripts/fetch_todoist.rb
+        env:
+          TODOIST_TOKEN: ${{ secrets.TODOIST_TOKEN }}
+          TODOIST_PROJECT_ID: ${{ secrets.TODOIST_PROJECT_ID }}
+          TODOIST_SECTION_ID: ${{ secrets.TODOIST_SECTION_ID }}
+
+      - name: Commit changes
+        run: |
+          git config user.name "todoist-bot"
+          git config user.email "actions@github.com"
+          git add _data/todoist.yml
+          git commit -m "chore: update wants list" || exit 0
+          git push
