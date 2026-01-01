@@ -10,8 +10,6 @@ cover-img: assets/img/presents-nina-mercado-CnrDuY0tFrg-unsplash.jpg
 Hello! If you are here, it means you are on the hunt for gift ideas for Peter. Here is a brief list of ideas:
 <ul>
 {% for task in site.data.todoist %}
-  <li>
-    {{ task.content | markdownify }} {% if task.description != "" %} ({{ task.description | markdownify }}) {%endif %}
-  </li>
+  <li>{{ task.content | markdownify  | remove: '<p>' | remove: '</p>' | strip_newlines }} {% if task.description != "" %} ({{ task.description | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}) {%endif %} </li>
 {% endfor %}
 </ul>
