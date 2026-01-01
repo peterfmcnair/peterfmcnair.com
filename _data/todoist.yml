@@ -247,44 +247,6 @@
   url: https://app.todoist.com/app/task/8151962484
   duration:
   deadline:
-- id: '8189362158'
-  assigner_id:
-  assignee_id:
-  project_id: '2299233541'
-  section_id: '167190294'
-  parent_id:
-  order: 28
-  content: Oscilloscope
-  description: ''
-  is_completed: false
-  labels: []
-  priority: 1
-  comment_count: 0
-  creator_id: '41040082'
-  created_at: '2024-07-09T07:27:13.423939Z'
-  due:
-  url: https://app.todoist.com/app/task/8189362158
-  duration:
-  deadline:
-- id: '8189362867'
-  assigner_id:
-  assignee_id:
-  project_id: '2299233541'
-  section_id: '167190294'
-  parent_id:
-  order: 29
-  content: Hakko Soldering Iron $200
-  description: "[Soldering iron](https://www.wagneronline.com.au/hakko-fx888d-soldering-station/soldering-irons-hakko/soldering/tools-test/fx888d-45001/6512/pd/)"
-  is_completed: false
-  labels: []
-  priority: 1
-  comment_count: 0
-  creator_id: '41040082'
-  created_at: '2024-07-09T07:27:32.012713Z'
-  due:
-  url: https://app.todoist.com/app/task/8189362867
-  duration:
-  deadline:
 - id: '8627687147'
   assigner_id:
   assignee_id:
