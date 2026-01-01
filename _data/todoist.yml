@@ -190,25 +190,6 @@
   url: https://app.todoist.com/app/task/6640164832
   duration:
   deadline:
-- id: '8151962484'
-  assigner_id:
-  assignee_id:
-  project_id: '2299233541'
-  section_id: '167190294'
-  parent_id:
-  order: 26
-  content: Icebreaker anatomical boxers
-  description: ''
-  is_completed: false
-  labels: []
-  priority: 1
-  comment_count: 0
-  creator_id: '41040082'
-  created_at: '2024-06-26T09:26:47.903809Z'
-  due:
-  url: https://app.todoist.com/app/task/8151962484
-  duration:
-  deadline:
 - id: '8627687147'
   assigner_id:
   assignee_id:
