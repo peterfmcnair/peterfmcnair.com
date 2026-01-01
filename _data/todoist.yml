@@ -63,8 +63,8 @@
   section_id: '167190294'
   parent_id:
   order: 5
-  content: Bags that straddle the shopping trolley for easy packing
-  description: ''
+  content: Bags that straddle the shopping trolley
+  description: for easy packing
   is_completed: false
   labels: []
   priority: 1
@@ -120,8 +120,8 @@
   section_id: '167190294'
   parent_id:
   order: 16
-  content: Front facing Snorkel like Seb's
-  description: ''
+  content: Front facing Snorkel
+  description: Like Seb's
   is_completed: false
   labels: []
   priority: 1
@@ -331,7 +331,7 @@
   parent_id:
   order: 33
   content: Prescription anti reflective goggles
-  description: ''
+  description: For pool and beach
   is_completed: false
   labels: []
   priority: 1
@@ -399,6 +399,25 @@
   url: https://app.todoist.com/app/task/8745222645
   duration:
   deadline:
+- id: '9192572075'
+  assigner_id:
+  assignee_id:
+  project_id: '2299233541'
+  section_id: '167190294'
+  parent_id:
+  order: 38
+  content: Umbrella
+  description: ''
+  is_completed: false
+  labels: []
+  priority: 1
+  comment_count: 0
+  creator_id: '41040082'
+  created_at: '2025-05-24T05:46:53.014028Z'
+  due:
+  url: https://app.todoist.com/app/task/9192572075
+  duration:
+  deadline:
 - id: '9193057362'
   assigner_id:
   assignee_id:
@@ -416,5 +435,24 @@
   created_at: '2025-05-24T11:16:46.631544Z'
   due:
   url: https://app.todoist.com/app/task/9193057362
+  duration:
+  deadline:
+- id: '9872929896'
+  assigner_id:
+  assignee_id:
+  project_id: '2299233541'
+  section_id: '167190294'
+  parent_id:
+  order: 39
+  content: Test
+  description: ''
+  is_completed: false
+  labels: []
+  priority: 1
+  comment_count: 0
+  creator_id: '41040082'
+  created_at: '2026-01-01T10:18:31.406970Z'
+  due:
+  url: https://app.todoist.com/app/task/9872929896
   duration:
   deadline:
