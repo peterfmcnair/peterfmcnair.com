@@ -151,25 +151,6 @@
   url: https://app.todoist.com/app/task/6568412595
   duration:
   deadline:
-- id: '6601863918'
-  assigner_id:
-  assignee_id:
-  project_id: '2299233541'
-  section_id: '167190294'
-  parent_id:
-  order: 8
-  content: Dry bag to use as liner for backpack
-  description: 10 litres more than backpack capacity makes it 45 L
-  is_completed: false
-  labels: []
-  priority: 1
-  comment_count: 0
-  creator_id: '41040082'
-  created_at: '2023-02-09T04:24:13.045344Z'
-  due:
-  url: https://app.todoist.com/app/task/6601863918
-  duration:
-  deadline:
 - id: '6609838684'
   assigner_id:
   assignee_id:
