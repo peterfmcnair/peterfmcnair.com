@@ -11,7 +11,7 @@ Hello! If you are here, it means you are on the hunt for gift ideas for Peter. H
 <ul>
 {% for task in site.data.todoist %}
   <li>
-    {{ task.content }} {% if task.description %} ({{task.description}}) {%endif %}
+    {{ task.content }} {% if task.description != "" %} ({{task.description}}) {%endif %}
   </li>
 {% endfor %}
 </ul>
