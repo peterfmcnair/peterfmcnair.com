@@ -177,9 +177,8 @@
   section_id: '167190294'
   parent_id:
   order: 8
-  content: Dry bag to use as liner for backpack 45 l (10 litres more than backpack
-    capacity)
-  description: ''
+  content: Dry bag to use as liner for backpack
+  description: 10 litres more than backpack capacity makes it 45 L
   is_completed: false
   labels: []
   priority: 1
@@ -265,25 +264,6 @@
   created_at: '2023-03-22T23:03:06.085357Z'
   due:
   url: https://app.todoist.com/app/task/6726119130
-  duration:
-  deadline:
-- id: '8140292767'
-  assigner_id:
-  assignee_id:
-  project_id: '2299233541'
-  section_id: '167190294'
-  parent_id:
-  order: 31
-  content: 12 foot extension cable for travel
-  description: ''
-  is_completed: false
-  labels: []
-  priority: 1
-  comment_count: 0
-  creator_id: '41040082'
-  created_at: '2024-06-22T03:48:13.419476Z'
-  due:
-  url: https://app.todoist.com/app/task/8140292767
   duration:
   deadline:
 - id: '8151962484'
@@ -407,8 +387,8 @@
   section_id: '167190294'
   parent_id:
   order: 36
-  content: Quality audio interface with at least 2 inputs, preferably 4
-  description: ''
+  content: Quality audio interface
+  description: At least 2 inputs, preferably 4
   is_completed: false
   labels: []
   priority: 1
