@@ -209,25 +209,6 @@
   url: https://app.todoist.com/app/task/6640164832
   duration:
   deadline:
-- id: '6640167928'
-  assigner_id:
-  assignee_id:
-  project_id: '2299233541'
-  section_id: '167190294'
-  parent_id:
-  order: 10
-  content: ARtix xilinx FPGA dev board
-  description: ''
-  is_completed: false
-  labels: []
-  priority: 1
-  comment_count: 0
-  creator_id: '41040082'
-  created_at: '2023-02-22T09:08:19.022509Z'
-  due:
-  url: https://app.todoist.com/app/task/6640167928
-  duration:
-  deadline:
 - id: '8151962484'
   assigner_id:
   assignee_id:
