@@ -27,6 +27,7 @@ tasks = JSON.parse(res.body)
 # Sort by created_at (newest first)
 tasks.sort_by! { |t| t["created_at"] }.reverse!
 
+
 File.write("_data/todoist.yml", tasks.to_yaml)
 
 puts "Fetched #{tasks.length} tasks"

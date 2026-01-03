@@ -1,59 +1,21 @@
 ---
-- id: '8140292767'
+- id: '6197946814'
   assigner_id:
   assignee_id:
   project_id: '2299233541'
   section_id: '167190294'
   parent_id:
-  order: 31
-  content: 12 foot extension cable for travel
+  order: 3
+  content: Microphone
   description: ''
   is_completed: false
   labels: []
   priority: 1
   comment_count: 0
   creator_id: '41040082'
-  created_at: '2024-06-22T03:48:13.419476Z'
+  created_at: '2022-09-22T13:42:55.046349Z'
   due:
-  url: https://app.todoist.com/app/task/8140292767
-  duration:
-  deadline:
-- id: '6640167928'
-  assigner_id:
-  assignee_id:
-  project_id: '2299233541'
-  section_id: '167190294'
-  parent_id:
-  order: 10
-  content: ARtix xilinx FPGA dev board
-  description: ''
-  is_completed: false
-  labels: []
-  priority: 1
-  comment_count: 0
-  creator_id: '41040082'
-  created_at: '2023-02-22T09:08:19.022509Z'
-  due:
-  url: https://app.todoist.com/app/task/6640167928
-  duration:
-  deadline:
-- id: '6210236645'
-  assigner_id:
-  assignee_id:
-  project_id: '2299233541'
-  section_id: '167190294'
-  parent_id:
-  order: 5
-  content: Bags that straddle the shopping trolley for easy packing
-  description: ''
-  is_completed: false
-  labels: []
-  priority: 1
-  comment_count: 0
-  creator_id: '41040082'
-  created_at: '2022-09-27T02:49:55.798328Z'
-  due:
-  url: https://app.todoist.com/app/task/6210236645
+  url: https://app.todoist.com/app/task/6197946814
   duration:
   deadline:
 - id: '6197946999'
@@ -75,195 +37,23 @@
   url: https://app.todoist.com/app/task/6197946999
   duration:
   deadline:
-- id: '6210237458'
+- id: '6210236645'
   assigner_id:
   assignee_id:
   project_id: '2299233541'
   section_id: '167190294'
   parent_id:
-  order: 13
-  content: Brown Boots for going out us9
-  description: ''
+  order: 5
+  content: Bags that straddle the shopping trolley
+  description: for easy packing
   is_completed: false
   labels: []
   priority: 1
   comment_count: 0
   creator_id: '41040082'
-  created_at: '2022-09-27T02:50:23.978760Z'
+  created_at: '2022-09-27T02:49:55.798328Z'
   due:
-  url: https://app.todoist.com/app/task/6210237458
-  duration:
-  deadline:
-- id: '6601863918'
-  assigner_id:
-  assignee_id:
-  project_id: '2299233541'
-  section_id: '167190294'
-  parent_id:
-  order: 8
-  content: Dry bag to use as liner for backpack 45 l (10 litres more than backpack
-    capacity)
-  description: ''
-  is_completed: false
-  labels: []
-  priority: 1
-  comment_count: 0
-  creator_id: '41040082'
-  created_at: '2023-02-09T04:24:13.045344Z'
-  due:
-  url: https://app.todoist.com/app/task/6601863918
-  duration:
-  deadline:
-- id: '6245130988'
-  assigner_id:
-  assignee_id:
-  project_id: '2299233541'
-  section_id: '167190294'
-  parent_id:
-  order: 17
-  content: Flux in syringe
-  description: ''
-  is_completed: false
-  labels: []
-  priority: 1
-  comment_count: 0
-  creator_id: '41040082'
-  created_at: '2022-10-09T02:17:47.792645Z'
-  due:
-  url: https://app.todoist.com/app/task/6245130988
-  duration:
-  deadline:
-- id: '6197943486'
-  assigner_id:
-  assignee_id:
-  project_id: '2299233541'
-  section_id: '167190294'
-  parent_id:
-  order: 1
-  content: Fountain pen and ink
-  description: ''
-  is_completed: false
-  labels: []
-  priority: 1
-  comment_count: 0
-  creator_id: '41040082'
-  created_at: '2022-09-22T13:41:51.924488Z'
-  due:
-  url: https://app.todoist.com/app/task/6197943486
-  duration:
-  deadline:
-- id: '6243882018'
-  assigner_id:
-  assignee_id:
-  project_id: '2299233541'
-  section_id: '167190294'
-  parent_id:
-  order: 16
-  content: Front facing Snorkel like Seb's
-  description: ''
-  is_completed: false
-  labels: []
-  priority: 1
-  comment_count: 0
-  creator_id: '41040082'
-  created_at: '2022-10-08T11:04:48.032686Z'
-  due:
-  url: https://app.todoist.com/app/task/6243882018
-  duration:
-  deadline:
-- id: '6640164832'
-  assigner_id:
-  assignee_id:
-  project_id: '2299233541'
-  section_id: '167190294'
-  parent_id:
-  order: 9
-  content: Hack RF
-  description: ''
-  is_completed: false
-  labels: []
-  priority: 1
-  comment_count: 0
-  creator_id: '41040082'
-  created_at: '2023-02-22T09:07:02.648557Z'
-  due:
-  url: https://app.todoist.com/app/task/6640164832
-  duration:
-  deadline:
-- id: '8189362867'
-  assigner_id:
-  assignee_id:
-  project_id: '2299233541'
-  section_id: '167190294'
-  parent_id:
-  order: 29
-  content: Hakko Soldering Iron $200
-  description: "[<%=productcode%>](https://www.wagneronline.com.au/hakko-fx888d-soldering-station/soldering-irons-hakko/soldering/tools-test/fx888d-45001/6512/pd/)"
-  is_completed: false
-  labels: []
-  priority: 1
-  comment_count: 0
-  creator_id: '41040082'
-  created_at: '2024-07-09T07:27:32.012713Z'
-  due:
-  url: https://app.todoist.com/app/task/8189362867
-  duration:
-  deadline:
-- id: '8220249050'
-  assigner_id:
-  assignee_id:
-  project_id: '2299233541'
-  section_id: '167190294'
-  parent_id:
-  order: 30
-  content: Heated airer
-  description: ''
-  is_completed: false
-  labels: []
-  priority: 1
-  comment_count: 0
-  creator_id: '41040082'
-  created_at: '2024-07-19T13:22:24.338826Z'
-  due:
-  url: https://app.todoist.com/app/task/8220249050
-  duration:
-  deadline:
-- id: '8627687889'
-  assigner_id:
-  assignee_id:
-  project_id: '2299233541'
-  section_id: '167190294'
-  parent_id:
-  order: 34
-  content: High output salt and pepper shakers
-  description: ''
-  is_completed: false
-  labels: []
-  priority: 1
-  comment_count: 0
-  creator_id: '41040082'
-  created_at: '2024-11-27T12:07:04.970691Z'
-  due:
-  url: https://app.todoist.com/app/task/8627687889
-  duration:
-  deadline:
-- id: '8151962484'
-  assigner_id:
-  assignee_id:
-  project_id: '2299233541'
-  section_id: '167190294'
-  parent_id:
-  order: 26
-  content: Icebreaker anatomical boxers
-  description: ''
-  is_completed: false
-  labels: []
-  priority: 1
-  comment_count: 0
-  creator_id: '41040082'
-  created_at: '2024-06-26T09:26:47.903809Z'
-  due:
-  url: https://app.todoist.com/app/task/8151962484
+  url: https://app.todoist.com/app/task/6210236645
   duration:
   deadline:
 - id: '6210237033'
@@ -285,156 +75,42 @@
   url: https://app.todoist.com/app/task/6210237033
   duration:
   deadline:
-- id: '6268236207'
+- id: '6210237458'
   assigner_id:
   assignee_id:
   project_id: '2299233541'
   section_id: '167190294'
   parent_id:
-  order: 20
-  content: Lead Free Solder
-  description: https://www.ebay.com.au/itm/203952083587?hash=item2f7c7dd283:g:QTwAAOSwedtigvTU&amdata=enc%3AAQAHAAAAoEwTAToO0Lr2kbyZZb%2F%2FwZLe5OZMjLKUk3KaTpPzHcy8ZQTFNKk%2BtnAPo%2BLpZFp7eIIFZdF%2Bee16bxbeDTIC3yN%2BZbVQHryKFn3ZI5cxj9UjcCVRGBq%2Bgz%2FRdlcngwlmD1nOFGnESqP30jMt1h9uynaAFczaHlevLWWULvRYH1WuIjxaAZuvJZ1o1jZgw8ACmy5oe7GS1FxZNpi7bdLw7xU%3D%7Ctkp%3ABk9SR_juvtL8YA
+  order: 13
+  content: Brown Boots for going out
+  description: Size US 10
   is_completed: false
   labels: []
   priority: 1
   comment_count: 0
   creator_id: '41040082'
-  created_at: '2022-10-17T08:56:52.987240Z'
+  created_at: '2022-09-27T02:50:23.978760Z'
   due:
-  url: https://app.todoist.com/app/task/6268236207
+  url: https://app.todoist.com/app/task/6210237458
   duration:
   deadline:
-- id: '6197946814'
+- id: '6243882018'
   assigner_id:
   assignee_id:
   project_id: '2299233541'
   section_id: '167190294'
   parent_id:
-  order: 3
-  content: Microphone
-  description: ''
+  order: 16
+  content: Front facing Snorkel
+  description: Like Seb's
   is_completed: false
   labels: []
   priority: 1
   comment_count: 0
   creator_id: '41040082'
-  created_at: '2022-09-22T13:42:55.046349Z'
+  created_at: '2022-10-08T11:04:48.032686Z'
   due:
-  url: https://app.todoist.com/app/task/6197946814
-  duration:
-  deadline:
-- id: '8189362158'
-  assigner_id:
-  assignee_id:
-  project_id: '2299233541'
-  section_id: '167190294'
-  parent_id:
-  order: 28
-  content: Oscilloscope
-  description: ''
-  is_completed: false
-  labels: []
-  priority: 1
-  comment_count: 0
-  creator_id: '41040082'
-  created_at: '2024-07-09T07:27:13.423939Z'
-  due:
-  url: https://app.todoist.com/app/task/8189362158
-  duration:
-  deadline:
-- id: '6210237258'
-  assigner_id:
-  assignee_id:
-  project_id: '2299233541'
-  section_id: '167190294'
-  parent_id:
-  order: 15
-  content: Posters for wall
-  description: ''
-  is_completed: false
-  labels: []
-  priority: 1
-  comment_count: 0
-  creator_id: '41040082'
-  created_at: '2022-09-27T02:50:18.700336Z'
-  due:
-  url: https://app.todoist.com/app/task/6210237258
-  duration:
-  deadline:
-- id: '8627687147'
-  assigner_id:
-  assignee_id:
-  project_id: '2299233541'
-  section_id: '167190294'
-  parent_id:
-  order: 33
-  content: Prescription anti reflective goggles
-  description: ''
-  is_completed: false
-  labels: []
-  priority: 1
-  comment_count: 0
-  creator_id: '41040082'
-  created_at: '2024-11-27T12:06:45.458265Z'
-  due:
-  url: https://app.todoist.com/app/task/8627687147
-  duration:
-  deadline:
-- id: '8745222645'
-  assigner_id:
-  assignee_id:
-  project_id: '2299233541'
-  section_id: '167190294'
-  parent_id:
-  order: 36
-  content: Quality audio interface with at least 2 inputs, preferably 4
-  description: ''
-  is_completed: false
-  labels: []
-  priority: 1
-  comment_count: 0
-  creator_id: '41040082'
-  created_at: '2025-01-07T12:13:23.765856Z'
-  due:
-  url: https://app.todoist.com/app/task/8745222645
-  duration:
-  deadline:
-- id: '6568412595'
-  assigner_id:
-  assignee_id:
-  project_id: '2299233541'
-  section_id: '167190294'
-  parent_id:
-  order: 7
-  content: RTL sdr
-  description: ''
-  is_completed: false
-  labels: []
-  priority: 1
-  comment_count: 0
-  creator_id: '41040082'
-  created_at: '2023-01-29T23:44:59.081660Z'
-  due:
-  url: https://app.todoist.com/app/task/6568412595
-  duration:
-  deadline:
-- id: '8189361625'
-  assigner_id:
-  assignee_id:
-  project_id: '2299233541'
-  section_id: '167190294'
-  parent_id:
-  order: 27
-  content: Roborally
-  description: ''
-  is_completed: false
-  labels: []
-  priority: 1
-  comment_count: 0
-  creator_id: '41040082'
-  created_at: '2024-07-09T07:26:57.799911Z'
-  due:
-  url: https://app.todoist.com/app/task/8189361625
+  url: https://app.todoist.com/app/task/6243882018
   duration:
   deadline:
 - id: '6475918281'
@@ -454,6 +130,25 @@
   created_at: '2022-12-30T09:59:16.455740Z'
   due:
   url: https://app.todoist.com/app/task/6475918281
+  duration:
+  deadline:
+- id: '6568412595'
+  assigner_id:
+  assignee_id:
+  project_id: '2299233541'
+  section_id: '167190294'
+  parent_id:
+  order: 7
+  content: RTL sdr
+  description: ''
+  is_completed: false
+  labels: []
+  priority: 1
+  comment_count: 0
+  creator_id: '41040082'
+  created_at: '2023-01-29T23:44:59.081660Z'
+  due:
+  url: https://app.todoist.com/app/task/6568412595
   duration:
   deadline:
 - id: '6609838684'
@@ -476,6 +171,120 @@
   url: https://app.todoist.com/app/task/6609838684
   duration:
   deadline:
+- id: '6640164832'
+  assigner_id:
+  assignee_id:
+  project_id: '2299233541'
+  section_id: '167190294'
+  parent_id:
+  order: 9
+  content: Hack RF
+  description: ''
+  is_completed: false
+  labels: []
+  priority: 1
+  comment_count: 0
+  creator_id: '41040082'
+  created_at: '2023-02-22T09:07:02.648557Z'
+  due:
+  url: https://app.todoist.com/app/task/6640164832
+  duration:
+  deadline:
+- id: '8627687147'
+  assigner_id:
+  assignee_id:
+  project_id: '2299233541'
+  section_id: '167190294'
+  parent_id:
+  order: 33
+  content: Prescription anti reflective goggles
+  description: For pool and beach
+  is_completed: false
+  labels: []
+  priority: 1
+  comment_count: 0
+  creator_id: '41040082'
+  created_at: '2024-11-27T12:06:45.458265Z'
+  due:
+  url: https://app.todoist.com/app/task/8627687147
+  duration:
+  deadline:
+- id: '8627687889'
+  assigner_id:
+  assignee_id:
+  project_id: '2299233541'
+  section_id: '167190294'
+  parent_id:
+  order: 34
+  content: High output salt and pepper shakers
+  description: ''
+  is_completed: false
+  labels: []
+  priority: 1
+  comment_count: 0
+  creator_id: '41040082'
+  created_at: '2024-11-27T12:07:04.970691Z'
+  due:
+  url: https://app.todoist.com/app/task/8627687889
+  duration:
+  deadline:
+- id: '8745177177'
+  assigner_id:
+  assignee_id:
+  project_id: '2299233541'
+  section_id: '167190294'
+  parent_id:
+  order: 35
+  content: Travel sheets
+  description: Preferably square, not mummy shaped.
+  is_completed: false
+  labels: []
+  priority: 1
+  comment_count: 0
+  creator_id: '41040082'
+  created_at: '2025-01-07T11:59:26.974972Z'
+  due:
+  url: https://app.todoist.com/app/task/8745177177
+  duration:
+  deadline:
+- id: '8745222645'
+  assigner_id:
+  assignee_id:
+  project_id: '2299233541'
+  section_id: '167190294'
+  parent_id:
+  order: 36
+  content: Quality audio interface
+  description: At least 2 inputs, preferably 4
+  is_completed: false
+  labels: []
+  priority: 1
+  comment_count: 0
+  creator_id: '41040082'
+  created_at: '2025-01-07T12:13:23.765856Z'
+  due:
+  url: https://app.todoist.com/app/task/8745222645
+  duration:
+  deadline:
+- id: '9192572075'
+  assigner_id:
+  assignee_id:
+  project_id: '2299233541'
+  section_id: '167190294'
+  parent_id:
+  order: 38
+  content: Umbrella
+  description: ''
+  is_completed: false
+  labels: []
+  priority: 1
+  comment_count: 0
+  creator_id: '41040082'
+  created_at: '2025-05-24T05:46:53.014028Z'
+  due:
+  url: https://app.todoist.com/app/task/9192572075
+  duration:
+  deadline:
 - id: '9193057362'
   assigner_id:
   assignee_id:
@@ -495,60 +304,22 @@
   url: https://app.todoist.com/app/task/9193057362
   duration:
   deadline:
-- id: '6736368427'
+- id: '9874307093'
   assigner_id:
   assignee_id:
   project_id: '2299233541'
   section_id: '167190294'
   parent_id:
-  order: 23
-  content: The Swinging Sticks Kinetic Energy Sculpture - Desktop Toy Replica Version
-  description: ''
+  order: 39
+  content: Combination D bike lock
+  description: Like [this](https://www.dysonbikes.com.au/onguard-8010c-combination-d-lock?srsltid=AfmBOooeSn53ZsqBf9J_mwPZJ5DPKQZ3vUN_l549W5uaZ8WDFxm3Lvcx)
   is_completed: false
   labels: []
   priority: 1
   comment_count: 0
   creator_id: '41040082'
-  created_at: '2023-03-26T23:22:09.385365Z'
+  created_at: '2026-01-01T23:40:01.840431Z'
   due:
-  url: https://app.todoist.com/app/task/6736368427
-  duration:
-  deadline:
-- id: '8745177177'
-  assigner_id:
-  assignee_id:
-  project_id: '2299233541'
-  section_id: '167190294'
-  parent_id:
-  order: 35
-  content: Travel sheets
-  description: ''
-  is_completed: false
-  labels: []
-  priority: 1
-  comment_count: 0
-  creator_id: '41040082'
-  created_at: '2025-01-07T11:59:26.974972Z'
-  due:
-  url: https://app.todoist.com/app/task/8745177177
-  duration:
-  deadline:
-- id: '6726119130'
-  assigner_id:
-  assignee_id:
-  project_id: '2299233541'
-  section_id: '167190294'
-  parent_id:
-  order: 11
-  content: "[DD Hammocks SuperLight Tarp - Olive Green](https://www.wildearth.com.au/buy/dd-superlight-tarp-olive-green/DD-5668)"
-  description: "$130"
-  is_completed: false
-  labels: []
-  priority: 1
-  comment_count: 0
-  creator_id: '41040082'
-  created_at: '2023-03-22T23:03:06.085357Z'
-  due:
-  url: https://app.todoist.com/app/task/6726119130
+  url: https://app.todoist.com/app/task/9874307093
   duration:
   deadline:
