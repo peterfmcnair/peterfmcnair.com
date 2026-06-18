@@ -25,7 +25,7 @@ abort "Todoist API error: #{res.code}" unless res.code == "200"
 tasks = JSON.parse(res.body)
 
 # Sort by created_at (newest first)
-tasks.sort_by! { |t| t["created_at"] }.reverse!
+tasks.sort_by { |t| t["created_at"] }.reverse!
 
 
 File.write("_data/todoist.yml", tasks.to_yaml)
